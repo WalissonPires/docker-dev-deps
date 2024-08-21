@@ -1,8 +1,8 @@
 # Serviços usados para desenvolvimento
 
-Inicia um conjuntos de serviços usados durante o desenvolvimento de software. Tornando desnecessário instalar manualmente cada serviço direto na máquina.
+Inicia um conjunto de serviços usados durante o desenvolvimento de software. Tornando desnecessário instalar manualmente cada serviço direto na máquina.
 
-## Executar serviçoes
+## Executar serviços
 
 ```sh
 sudo docker swarm init
